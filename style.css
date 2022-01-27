@@ -29,13 +29,14 @@ body {
   background-color: var(--white);
   border-radius: 20px;
   max-width: 350px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .container .img-card img {
   border-radius: 10px;
   max-width: 100%;
   height: auto;
+  padding: 0.2em;
 }
 
 .container .content {
